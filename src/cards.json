@@ -6,8 +6,14 @@
     "logo_path": "mockster.svg"
   },
   {
+    "title": "Safex",
+    "description": "Security‑first secret sharing service that keeps sensitive data with zero server trust",
+    "link": "https://github.com/gonfff/safex",
+    "logo_path": "safex.png"
+  },
+  {
     "title": "Savings",
-    "description": "Dead simple personal desktop application to track savings accounts.",
+    "description": "Dead simple personal desktop application to track savings accounts. (Paused development)",
     "link": "https://github.com/gonfff/savings",
     "logo_path": "gonf.jpeg"
   },
