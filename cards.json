@@ -1,19 +1,25 @@
 [
   {
-    "title": "Mockster",
-    "description": "Minimalistic, lightweight and simple mock server. It can be embedded in your CI pipeline for tests or used as a standalone server while developing your application.",
-    "link": "https://github.com/gonfff/mockster",
-    "logo_path": "mockster.svg"
-  },
-  {
     "title": "Safex",
     "description": "Security‑first secret sharing service that keeps sensitive data with zero server trust",
     "link": "https://github.com/gonfff/safex",
     "logo_path": "safex.png"
   },
   {
+    "title": "Mockster",
+    "description": "Minimalistic, lightweight and simple mock server. It can be embedded in your CI pipeline for tests or used as a standalone server while developing your application.",
+    "link": "https://github.com/gonfff/mockster",
+    "logo_path": "mockster.svg"
+  },
+  {
+    "title": "Subctrl",
+    "description": "Dead simple subscription tracker app for IOS. Control your subscriptions, never miss a payment, and understand where your money goes.",
+    "link": "https://github.com/gonfff/subctrl",
+    "logo_path": "subctrl.png"
+  },
+  {
     "title": "Savings",
-    "description": "Dead simple personal desktop application to track savings accounts. (Paused development)",
+    "description": "Personal desktop application to track savings accounts. (Paused development)",
     "link": "https://github.com/gonfff/savings",
     "logo_path": "gonf.jpeg"
   },
