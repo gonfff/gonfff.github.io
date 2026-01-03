@@ -13,6 +13,7 @@ build-gh-pages: build-css
 	cp src/cards.json dist/cards.json
 	cp src/script.js dist/script.js
 	cp images/* dist/images/
+	cp CNAME dist/CNAME
 
 build-container:
 	docker build -t gonfff.github.io:latest .
