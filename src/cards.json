@@ -18,6 +18,12 @@
     "logo_path": "subctrl.png"
   },
   {
+    "title": "Racepace",
+    "description": "Ultimate running pace calculator app for iOS. Calculate your race paces for any distance and goal time.",
+    "link": "https://github.com/gonfff/racepace",
+    "logo_path": "racepace.jpeg"
+  },
+  {
     "title": "Savings",
     "description": "Personal desktop application to track savings accounts. (Paused development)",
     "link": "https://github.com/gonfff/savings",
